@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/sugandhan-portfolio/static/css/main.553e0587.css",
-    "main.js": "/sugandhan-portfolio/static/js/main.9a316e5c.js",
-    "service-worker.js": "/sugandhan-portfolio/service-worker.js",
-    "index.html": "/sugandhan-portfolio/index.html",
-    "main.553e0587.css.map": "/sugandhan-portfolio/static/css/main.553e0587.css.map",
-    "main.9a316e5c.js.map": "/sugandhan-portfolio/static/js/main.9a316e5c.js.map"
+    "main.css": "/MyPortfolio/static/css/main.553e0587.css",
+    "main.js": "/MyPortfolio/static/js/main.9a316e5c.js",
+    "service-worker.js": "/MyPortfolio/service-worker.js",
+    "index.html": "/MyPortfolio/index.html",
+    "main.553e0587.css.map": "/MyPortfolio/static/css/main.553e0587.css.map",
+    "main.9a316e5c.js.map": "/MyPortfolio/static/js/main.9a316e5c.js.map"
   },
   "entrypoints": [
     "static/css/main.553e0587.css",
